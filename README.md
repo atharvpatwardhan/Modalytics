@@ -1,4 +1,4 @@
-# **Modalyze - ML Model Evaluation Platform**
+# **Modalytics - ML Model Evaluation Platform**
 
 Modalyze is a **machine learning model evaluation platform** that automates model testing and provides performance metrics on AWS. It allows users to upload models and datasets, receive evaluation results, and visualize performance through an interactive dashboard.
 
